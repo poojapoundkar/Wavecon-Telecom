@@ -17,4 +17,5 @@ Recommends discontinuation of plans experiencing significant revenue declines, a
 The presentation aims to offer comprehensive insights into the repercussions of 5G integration on revenue streams, performance metrics, and mobile plans at Wavecon Ltd.
 Data-driven analysis using diagrams and comparisons enhances clarity and understanding.
 Recommendations are grounded in thorough analysis, intending to assist Wavecon Ltd. in optimizing its strategies post-5G integration.
-For a detailed review, kindly refer to the PowerPoint presentation provided in this repository.
+
+For a detailed review, kindly refer to the PowerPoint presentation / PBIX file provided in this repository.
